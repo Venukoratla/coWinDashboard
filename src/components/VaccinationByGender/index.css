@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.margin {
+  margin-top: 20px;
+}
+
+.gender-container {
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #cbd5e1;
+}

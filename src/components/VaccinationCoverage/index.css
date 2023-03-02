@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.heading {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #94a3b8;
+  margin-left: 10px;
+}
+
+.coverage-container {
+  margin: 10px;
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  padding: 10px;
+}
